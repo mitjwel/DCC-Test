@@ -1,0 +1,27 @@
+:root { 
+  --black: #000000;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 14px;
+  --font-size-s: 13px;
+  --font-size-xl: 23px;
+ 
+  --font-family-helveticaneue-bold: "HelveticaNeue-Bold", Helvetica;
+  --font-family-playfair_display: "Playfair Display", Helvetica;
+  --font-family-roboto_slab: "Roboto Slab", Helvetica;
+}
+.robotoslab-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.robotoslab-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}

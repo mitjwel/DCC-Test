@@ -1,0 +1,189 @@
+/* screen - web-1920-1 */
+
+.web-1920-1 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  height: 792px;
+  padding: 53px 0;
+  width: 612px;
+}
+
+.web-1920-1 .group-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  margin-top: 16px;
+  min-height: 542px;
+  width: 562px;
+}
+
+.web-1920-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 393px;
+  width: 562px;
+}
+
+.web-1920-1 .mit-seal {
+  height: 103px;
+  margin-left: 1.0px;
+  object-fit: cover;
+  width: 103px;
+}
+
+.web-1920-1 .massachusetts-instit {
+  color: #a71d31;
+  font-family: var(--font-family-helveticaneue-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  height: 69px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 2.0px;
+  margin-top: 20px;
+  text-align: center;
+  width: 470px;
+}
+
+.web-1920-1 .this-certifies-that {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 1.0px;
+  margin-top: 31px;
+  text-align: center;
+  width: 193px;
+}
+
+.web-1920-1 .the-container {
+  height: 140px;
+  margin-top: 6px;
+  position: relative;
+  width: 562px;
+}
+
+.web-1920-1 .has-completed-the-ma {
+  color: var(--black);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 89px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: 522px;
+}
+
+.web-1920-1 .name-of-the-person {
+  color: #a71d31;
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 800;
+  height: 53px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 562px;
+}
+
+.web-1920-1 .flex-row {
+  align-items: flex-end;
+  display: flex;
+  gap: 57px;
+  margin-right: 5.0px;
+  min-width: 529px;
+}
+
+.web-1920-1 .anjali-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 123px;
+  width: 230px;
+}
+
+.web-1920-1 .anjali {
+  height: 43px;
+  margin-right: 2.0px;
+  object-fit: cover;
+  width: 100px;
+}
+
+.web-1920-1 .dr-anjali-sastryfa {
+  color: var(--black);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 75px;
+  letter-spacing: 0;
+  line-height: 13px;
+  text-align: center;
+  width: 230px;
+}
+
+.web-1920-1 .span0 {
+  font-weight: 700;
+}
+
+.web-1920-1 .eric-container {
+  height: 130px;
+  position: relative;
+  width: 242px;
+}
+
+.web-1920-1 .eric {
+  height: 57px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 163px;
+}
+
+.web-1920-1 .professor-eric-grims {
+  color: var(--black);
+  font-family: var(--font-family-roboto_slab);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 75px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 55px;
+  width: 242px;
+}
+
+.web-1920-1 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 209px;
+  margin-right: 12.0px;
+  min-width: 532px;
+}
+
+.web-1920-1 .long-banner-logo-no-mit {
+  height: 73px;
+  object-fit: cover;
+  width: 265px;
+}
+
+.web-1920-1 .mit-negro {
+  height: 31px;
+  object-fit: cover;
+  width: 58px;
+}
